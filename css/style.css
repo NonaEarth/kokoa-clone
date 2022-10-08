@@ -29,6 +29,7 @@
 }
 
 body {
+    overflow: hidden;
     color: #2e363e;
     font-family: 'Pretendard';
     height: 100vh;
